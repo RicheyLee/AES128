@@ -14,8 +14,8 @@
 
 
 
-#define gkey			@"abcdef1234567890" //自行修改
-#define gIv             @"abcdef1234567890" //自行修改
+#define gkey			@"abcdef123456789" //自行修改
+
 
 
 @implementation DES3Util
