@@ -14,7 +14,7 @@
 
 
 
-#define gkey			@"abcdef123456789" //自行修改
+#define gkey			@"abcdef123456" //自行修改
 
 
 
